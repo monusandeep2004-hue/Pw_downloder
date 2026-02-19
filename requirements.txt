@@ -1,5 +1,6 @@
-pyrogram==2.0.106
+pyrogram==1.4.16
 tgcrypto==1.2.5
 pyromod==1.5
 requests==2.32.3
+
 yt-dlp==2025.10.22
